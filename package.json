@@ -59,7 +59,7 @@
     "@types/prismjs": "^1.26.3",
     "csv-parser": "^3.0.0",
     "gh-pages": "^6.1.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.2.0",
     "markdown-it": "^14.0.0",
     "openai": "^4.20.1",
     "prettier": "^3.1.0",
